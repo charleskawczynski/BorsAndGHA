@@ -8,5 +8,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
-      - name: Build/test
+      - name: Build
         run: julia --project test/runtests.jl
