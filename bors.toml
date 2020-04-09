@@ -1,4 +1,4 @@
-status = ["Build"]
+status = ["build"]
 pr-status = ["License Compliance", "WIP"]
 delete-merged-branches = true
 
